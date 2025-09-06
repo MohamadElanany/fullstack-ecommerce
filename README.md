@@ -1,8 +1,19 @@
 
 # Fullstack E-commerce App
 
-A complete e-commerce application built with **Node.js (Express)** for the backend and **Angular** for the frontend.  
-It includes user authentication, admin dashboard, product management, cart, orders, and reports.
+## About
+A full-stack e-commerce application built with **Node.js (Express)** for the backend, **Angular** for the frontend, and **MongoDB** for the database.  
+It provides a complete online shopping experience including:
+
+- **User Authentication** (Register, Login, JWT Security)
+- **Product Management** (CRUD for Admins)
+- **Shopping Cart & Checkout System**
+- **Order Management** for users and admins
+- **Admin Dashboard** for managing users, products, and orders
+- **Contact System** between users and admin for inquiries and support
+- **Sales Reports** for admin analytics
+- **Customer Testimonials**: Users can submit reviews; admin approves or rejects them
+
 
 ---
 
